@@ -1,7 +1,4 @@
-
-## Welcome to my homepage!
-
-
+### About me
 Sun Yiming (孙一铭)
 
 PhD Candidates
