@@ -2,25 +2,14 @@
 ## Welcome to my homepage!
 
 
-<div>
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Sun Yiming (孙一铭)</h1>
-      <p><b>PhD Candidates</b></p>
-      <p><b>School of Artificial Intelligence<b><p>
-      <p><b>College of Intelligence and Computing</b></p>
-      <p><b>Tianjin University</b></p>
-      <p><b>No. 135 Yaguan Road, Jinnan District, Tianjin City, P.R. China</b></p> 
-      <p><b>Email: sunyiming1895@tju.edu.cn</b></p>
-    </td>
-  </tr>
-</table>
-</div>
-  
----
+Sun Yiming (孙一铭)
+PhD Candidates
+School of Artificial Intelligence
+College of Intelligence and Computing
+Tianjin University
+No. 135 Yaguan Road, Jinnan District, Tianjin City, P.R. China
+Email: sunyiming1895@tju.edu.cn
 
----
 
 ### News
 [2022/06]  "DetFusion: A Detection-driven Infrared and Visible Image Fusion Network" has been accepted by ACM International Conference on Multimedia (ACM MM).**[CCF-A]**
