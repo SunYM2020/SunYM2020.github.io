@@ -3,11 +3,17 @@
 
 
 Sun Yiming (孙一铭)
+
 PhD Candidates
+
 School of Artificial Intelligence
+
 College of Intelligence and Computing
+
 Tianjin University
+
 No. 135 Yaguan Road, Jinnan District, Tianjin City, P.R. China
+
 Email: sunyiming1895@tju.edu.cn
 
 
