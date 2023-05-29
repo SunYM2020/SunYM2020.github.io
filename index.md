@@ -9,7 +9,6 @@ No. 135 Yaguan Road, Jinnan District, Tianjin City, P.R. China
 
 Email: sunyiming1895@tju.edu.cn
 
-
 ### News
 [2022/08]  "Self-supervised Fully Automatic Learning Machine for Intelligent Retail Container" has been accepted by IEEE Transactions on Instrumentation & Measurement (IEEE T-IM). **[ JCR Q1, SCI 2区 ]**
 
@@ -29,11 +28,16 @@ Transactions on Circuits and Systems for Video Technology (2022), 1–1.
 [3] Pengfei Zhu, **Yiming Sun**, Bing Cao, Xiaoyu Liu, Xin Liu, and Qinghua Hu. 2022. Self-supervised Fully Automatic Learning Machine for Intelligent Retail Container. IEEE Transactions on Instrumentation & Measurement (2022), 1–1.
 
 [4] Pengfei Zhu, Jiayu Zheng, Dawei Du, Longyin Wen, **Yiming Sun**, Qinghua Hu. 2021. Multi-Drone-Based Single Object Tracking With Agent Sharing Network. IEEE Transactions on Circuits and Systems for Video Technology 31, 10 (2021), 4058-4070.
-  
+
+### Preprint
+ [1] **Yiming Sun**, Bing Cao, Pengfei Zhu, and Qinghua Hu. 2023. Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion. arXiv:2302.01392.
+ 
 ### Honors
+- 2022 Tianjin University Merit Student 
 - 2021 Tianjin University Merit Student 
+- 2022 The First Prize Scholarship
 - 2021 The Second Prize Scholarship
 - 2020 The First Prize Scholarship
 
 ### Service
-He serves as a reviewer of IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT).
+He serves as a reviewer of IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT),  ISPRS Journal of Photogrammetry and Remote Sensing, and ACM Multimedia (ACM MM).
